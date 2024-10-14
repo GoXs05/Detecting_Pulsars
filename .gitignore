@@ -1,0 +1,64 @@
+# Build artifacts and intermediate files
+*.o
+*.obj
+*.so
+*.a
+*.lib
+*.dll
+*.exe
+*.out
+*.dSYM/
+*.dylib
+
+# CMake-generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Debugging files
+*.gch
+*.log
+vgcore.*
+core
+
+# Compiled static libraries
+*.la
+*.lo
+
+# Backup and temporary files
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# IDE and editor-specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# Windows-specific files
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Test binary files
+/test/
+
+# Files related to unit testing frameworks
+*.gcda
+*.gcno
+*.gcov
+
+# Python virtual environments
+venv/
+__pycache__/
+*.py[cod]
+
+# External libraries
+external/
+
+# Ignore compiled files
+*.so
+*.pyc
