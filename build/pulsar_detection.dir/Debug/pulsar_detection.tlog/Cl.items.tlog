@@ -1,0 +1,5 @@
+C:\Users\gokul\Astro Projects\Detecting_Pulsars\src\main.cpp;C:\Users\gokul\Astro Projects\Detecting_Pulsars\build\pulsar_detection.dir\Debug\main.obj
+C:\Users\gokul\Astro Projects\Detecting_Pulsars\src\fft.cpp;C:\Users\gokul\Astro Projects\Detecting_Pulsars\build\pulsar_detection.dir\Debug\fft.obj
+C:\Users\gokul\Astro Projects\Detecting_Pulsars\src\wavelet.cpp;C:\Users\gokul\Astro Projects\Detecting_Pulsars\build\pulsar_detection.dir\Debug\wavelet.obj
+C:\Users\gokul\Astro Projects\Detecting_Pulsars\src\denoising.cpp;C:\Users\gokul\Astro Projects\Detecting_Pulsars\build\pulsar_detection.dir\Debug\denoising.obj
+C:\Users\gokul\Astro Projects\Detecting_Pulsars\src\utils.cpp;C:\Users\gokul\Astro Projects\Detecting_Pulsars\build\pulsar_detection.dir\Debug\utils.obj

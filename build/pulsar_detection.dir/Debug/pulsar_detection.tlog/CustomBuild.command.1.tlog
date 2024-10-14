@@ -1,0 +1,10 @@
+^C:\USERS\GOKUL\ASTRO PROJECTS\DETECTING_PULSARS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/gokul/Astro Projects/Detecting_Pulsars" "-BC:/Users/gokul/Astro Projects/Detecting_Pulsars/build" --check-stamp-file "C:/Users/gokul/Astro Projects/Detecting_Pulsars/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
